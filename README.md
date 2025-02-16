@@ -1,9 +1,10 @@
 <!-- Banner or short intro -->
 <h1 align="center">Hi there, I’m Shagufta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <em>Building scalable software solutions, exploring AI/ML, and always learning!</em>
+  <em>AI/ML, Cloud & Full Stack Developer 🚀</em>
 </p>
 
+<p align="center">Let's Connect!</p>
 <!-- Badges or short tagline -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shaguftaanjum" target="_blank">
@@ -31,7 +32,7 @@
 
 - 💬 I love diving into full-stack developement with frameworks like **React.js, Node.js, Flask and Docker**. I’m also passionate about **machine learning, data, LLMs, generative AI.**
 
-- 🌐 **Check out** my portfolio website for more details: [shagufta.dev](https://www.shagufta.dev)
+- 🌍 **Check out** my portfolio website for more details: [shagufta.dev](https://www.shagufta.dev)
 
 - 🚨 **Actively** seeking full-time tech roles in the US starting in 2025!
 
@@ -70,15 +71,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-## 🤝 Let’s Connect
-
-- **Portfolio**: [shagufta.dev](https://www.shagufta.dev)  
-- **LinkedIn**: [linkedin.com/in/shaguftaanjum](https://www.linkedin.com/in/shaguftaanjum)  
-- **GitHub**: [github.com/shagufta24](https://github.com/shagufta24)  
-- **Email**: [shagufta.0201@gmail.com](mailto:shagufta.0201@gmail.com)
 
 <p align="center">
   <em>Thanks for visiting my profile! I look forward to connecting and collaborating with you!</em>
